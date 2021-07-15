@@ -1,0 +1,582 @@
+,col_num,name,owned
+3,B5200,Snow White,0
+4,1,White Tin,0
+5,2,Tin,0
+8,5,Driftwood - Light,0
+9,6,Driftwood - Medium Light,0
+10,7,Driftwood,0
+12,9,Cocoa - Very Dark,0
+13,10,Tender Green - Very Light,0
+14,11,Tender Green - Light,0
+15,12,Tender Green,0
+16,13,Nile Green - Medium Light,0
+17,14,Apple Green - Pale,0
+18,15,Apple Green,0
+19,16,Chartreuse - Light,0
+20,17,Yellow Plum - Light,0
+21,18,Yellow Plum,0
+22,19,Autumn Gold - Medium Light,0
+23,20,Shrimp,0
+24,21,Alizarian - Light,0
+25,22,Alizarian,0
+26,23,Apple Blossom,0
+27,24,White Lavender,0
+28,25,Lavender - Ultra Light,0
+29,26,Lavender - Pale,0
+30,27,White Violet,0
+31,28,Eggplant - Medium Light,0
+32,29,Eggplant,0
+33,30,Blueberry - Medium Light,0
+34,31,Blueberry,0
+35,32,Blueberry - Dark,0
+36,33,Fuchsia,0
+37,34,Fuchsia - Dark,0
+38,35,Fuchsia - Very Dark,0
+40,151,Pink,0
+41,152,Tawny - Dark,0
+42,153,Lilac,0
+47,158,Blue - Dark,0
+48,159,Petrol Blue - Light,0
+49,160,Petrol Blue - Medium,0
+50,161,Petrol Blue - Dark,0
+51,162,Baby Blue - Light,0
+52,163,Green,0
+54,165,Green - Bright,0
+55,166,Lime Green,0
+56,167,Khaki Brown,0
+58,169,Pewter Gray,0
+60,209,Lavender - Dark,0
+61,210,Lavender - Medium,0
+62,211,Lavender - Light,0
+63,221,Shell Pink - Very Dark,0
+67,^ Depending on your country you may find either/both.,,0
+0,300,Mahogany - Very Dark,0
+3,307,Lemon,0
+7,312,Baby Blue - Very Dark,0
+10,317,Pewter Gray,0
+12,319,Pistachio Green - Very Dark,0
+15,322,Baby Blue,0
+17,327,Violet,0
+18,333,Blue Violet - Very Dark,0
+19,334,Baby Blue - Medium,0
+21,336,Blue,0
+23,341,Blue Violet - Light,0
+32,367,Pistachio Green - Dark,0
+33,368,Pistachio Green - Light,0
+35,370,Mustard - Medium,0
+39,402,Mahogany - Very Light,0
+40,407,Desert Sand - Dark,0
+41,413,Pewter Gray - Dark,0
+45,422,Hazelnut Brown - Light,0
+47,434,Brown - Light,0
+51,444,Lemon - Dark,0
+52,445,Lemon - Light,0
+54,452,Shell Gray - Medium,0
+60,498,Red - Dark,0
+66,505,Grass Green - Dark,0
+67,* Hard to find threads,,0
+0,517,Wedgewood - Dark,0
+1,518,Wedgewood - Light,0
+2,519,Sky Blue,0
+3,520,Fern Green - Dark,0
+10,552,Violet - Medium,0
+11,553,Violet,0
+12,554,Violet - Light,0
+16,564,Jade - Very Light,0
+17,580,Moss Green - Dark,0
+18,581,Moss Green,0
+21,600,Cranberry - Very Dark,0
+22,601,Cranberry - Dark,0
+23,602,Cranberry - Medium,0
+24,603,Cranberry - Light Medium,0
+25,604,Cranberry - Light,0
+26,605,Cranberry - Very Light,0
+33,632,Desert Sand - Ultra Very Dark,0
+39,647,Beaver Gray - Medium,0
+42,676,Old Gold - Light,0
+43,677,Old Gold - Very Light,0
+45,699,Green,0
+46,700,Green - Bright,0
+48,702,Kelly Green,0
+51,712,Cream,0
+52,718,Plum,0
+53,720,Orange Spice - Dark,0
+56,725,Topaz,0
+58,727,Topaz - Very Light,0
+61,730,Olive Green - Very Dark,0
+62,731*,Olive Green - Dark,0
+65,734,Olive Green - Light,0
+67,* Hard to find threads,,0
+0,739,Tan - Ultra Very Light,0
+2,741,Tangerine - Medium,0
+3,742,Tangerine - Light,0
+5,744,Yellow - Pale,0
+7,746,Off White,0
+14,772,Yellow Green - Very Light,0
+15,775,Baby Blue - Very Light,0
+16,776*,Pink - Medium,0
+17,777,Red - Deep,0
+18,778,Antique Mauve - Very Light,0
+19,779,Brown,0
+23,783,Topaz - Medium,0
+24,791,Cornflower Blue - Very Dark,0
+26,793,Cornflower Blue - Medium,0
+27,794,Cornflower Blue - Light,0
+28,796,Royal Blue - Dark,0
+32,800,Delft Blue - Pale,0
+33,801,Coffee Brown - Dark,0
+34,803,Blue - Deep,0
+37,809,Delft Blue,0
+43,818,Baby Pink,0
+44,819,Baby Pink - Light,0
+45,820,Royal Blue - Very Dark,0
+47,823,Blue - Dark,0
+50,826,Blue - Medium,0
+51,827,Blue - Very Light,0
+53,829,Golden Olive - Very Dark,0
+56,832,Golden Olive,0
+58,834,Golden Olive - Very Light,0
+60,839,Beige Brown - Dark,0
+63,842,Beige Brown - Very Light,0
+65,868*,Hazel Nut Brown,0
+3,893,Carnation - Light,0
+5,895,Hunter Green - Very Dark,0
+6,898,Coffee Brown - Very Dark,0
+8,900,Burnt Orange - Dark,0
+9,902,Garnet - Very Dark,0
+13,907,Parrot Green - Light,0
+16,911,Emerald Green - Medium,0
+18,913,Nile Green - Medium,0
+19,915,Plum - Dark,0
+20,917,Plum - Medium,0
+21,918,Red Copper - Dark,0
+29,928,Gray Green - Very Light,0
+30,930,Antique Blue - Dark,0
+33,934,Avocado Green - BLACK,0
+35,936,Avocado Green - Very Dark,0
+37,938,Coffee Brown - Ultra Dark,0
+38,939,Blue - Very Dark,0
+40,945,Tawny,0
+41,946,Burnt Orange - Medium,0
+45,951,Tawny - Light,0
+46,954,Nile Green,0
+47,955,Nile Green - Light,0
+49,957,Geranium - Pale,0
+51,959,Seagreen - Medium,0
+52,961,Dusty Rose - Dark,0
+55,964,Seagreen - Light,0
+56,966,Baby Green - Medium,0
+57,967,Peach - Light,0
+59,971*,Pumpkin,0
+60,972,Canary - Deep,0
+61,973,Canary - Bright,0
+65,986,Forest Green - Very Dark,0
+66,987,Forest Green - Dark,0
+0,988.0,Forest Green - Medium,0
+1,989.0,Forest Green,0
+2,991.0,Aquamarine - Dark,0
+3,992.0,Aquamarine - Light,0
+6,996.0,Electric Blue - Medium,0
+7,3011.0,Khaki Green - Dark,0
+8,3012.0,Khaki Green - Medium,0
+9,3013.0,Khaki Green - Light,0
+11,3022.0,Brown Gray - Medium,0
+12,3023.0,Brown Gray - Light,0
+14,3031.0,Mocha Brown - Very Dark,0
+16,3033.0,Mocha Brown - Very Light,0
+21,3047.0,Yellow Beige - Light,0
+24,3053.0,Green Gray,0
+25,3064.0,Desert Sand,0
+27,3078.0,Golden Yellow - Very Light,0
+29,3326.0,Rose - Light,0
+30,3328.0,Salmon - Dark,0
+31,3340.0,Apricot - Medium,0
+32,3341.0,Apricot,0
+37,3350.0,Dusty Rose - Ultra Dark,0
+38,3354.0,Dusty Rose - Light,0
+41,3364.0,Pine Green,0
+44,3608.0,Plum - Very Light,0
+45,3609.0,Plum - Ultra Light,0
+46,3685.0,Mauve - Very Dark,0
+47,3687.0,Mauve,0
+51,3706.0,Melon - Medium,0
+52,3708.0,Melon - Light,0
+53,3712.0,Salmon - Medium,0
+54,3713.0,Salmon - Very Light,0
+55,3716.0,Dusty Rose - Very Light,0
+56,3721.0,Shell Pink - Dark,0
+57,3722.0,Shell Pink - Medium,0
+59,3727.0,Antique Mauve - Light,0
+60,3731.0,Dusty Rose - Very Dark,0
+61,3733.0,Dusty Rose,0
+64,3746.0,Blue Violet - Dark,0
+65,3747.0,Blue Violet - Very Light,0
+0,3752,Antique Blue - Very Light,0
+1,3753,Antique Blue - Ultra Very Light,0
+3,3756,Baby Blue - Light,0
+5,3761,Sky Blue - Light,0
+6,3765,Peacock Blue - Very Dark,0
+10,3771,Peach - Dark,0
+11,3772,Desert Sand - Very Dark,0
+12,3773*,Desert Sand - Medium,0
+14,3776,Mahogany - Light,0
+16,3778,Terra Cotta - Light,0
+17,3779,Terra Cotta - Ultra Very Light,0
+18,3781,Mocha Brown - Dark,0
+19,3782,Mocha Brown - Light,0
+21,3790,Beige Gray - Ultra Dark,0
+22,3799,Pewter Gray - Very Dark,0
+23,3801,Melon - Very Dark,0
+24,3802,Antique Mauve - Very Dark,0
+26,3804,Cyclamen Pink - Dark,0
+27,3805,Cyclamen Pink,0
+28,3806,Cyclamen Pink - Light,0
+29,3807,Cornflower Blue,0
+30,3808,Turquoise - Ultra Very Dark,0
+31,3809,Turquoise - Very Dark,0
+33,3811,Turquoise - Very Light,0
+34,3812,Seagreen - Very Dark,0
+35,3813,Blue Green - Light,0
+36,3814,Aquamarine,0
+39,3817,Celadon Green - Light,0
+40,3818,Emerald Green - Ultra Very Dark,0
+41,3819,Moss Green - Light,0
+46,3824,Apricot - Light,0
+47,3825,Pumpkin - Pale,0
+48,3826,Golden Brown,0
+49,3827,Golden Brown - Pale,0
+50,3828,Hazelnut Brown,0
+52,3830,Terra Cotta,0
+53,3831,Raspberry - Dark,0
+54,3832,Raspberry - Medium,0
+55,3833,Raspberry - Light,0
+56,3834,Grape - Dark,0
+57,3835,Grape - Medium,0
+58,3836,Grape - Light,0
+59,3837,Lavender - Ultra Dark,0
+62,3840,Lavender Blue - Light,0
+64,3842,Wedgewood - Dark,0
+65,3843,Electric Blue,0
+66,3844,Bright Turquoise - Dark,0
+67,* Hard to find threads,,0
+0,3845,Bright Turquoise - Medium,0
+1,3846,Bright Turquoise - Light,0
+3,3848,Teal Green - Medium,0
+5,3850,Bright Green - Dark,0
+6,3851,Bright Green - Light,0
+8,3853,Autumn Gold - Dark,0
+9,3854,Autumn Gold - Medium,0
+11,3856,Mahogany - Ultra Very Light,0
+12,3857,Rosewood - Dark,0
+13,3858,Rosewood - Medium,0
+14,3859,Rosewood - Light,0
+15,3860,Cocoa,0
+16,3861,Cocoa - Light,0
+17,3862,Mocha Beige - Dark,0
+18,3863,Mocha Beige - Medium,0
+19,3864,Mocha Beige - Light,0
+22,3880*,Shell Pink - Light,0
+23,3881*,Green - Light,0
+24,3882*,Beige Brown - Dark,0
+25,3883*,Orange Spice - Light,0
+26,3884*,Ash Gray - Very Light,0
+27,3885*,Baby Blue - Very Dark,0
+28,3886*,Mauve - Very Dark,0
+29,3887*,Lavender - Very Dark,0
+30,3888*,Antique Violet - Dark,0
+31,3889*,Lemon - Light,0
+32,3890*,Peacock Blue - Light,0
+33,3891*,Electric Blue - Dark,0
+34,3892*,Tangerine,0
+35,3893*,Beige Brown - Ultra Very Light,0
+36,3894*,Parrot Green - Light,0
+37,3895*,Beaver Gray - Dark,0
+38,48,Variegated - Baby Pink,0
+39,51,Variegated - Burnt Orange,0
+40,52,Variegated - Violet,0
+41,53,Variegated - Steel Grey,0
+42,67,Variegated - Baby Blue,0
+43,69,Variegated - Terra Cotta,0
+44,90,Variegated - Yellow,0
+45,92,Variegated - Avocado,0
+46,93,Variegated - Blue Haze,0
+47,94,Variegated - Khaki Green,0
+48,99,Variegated - Mauve,0
+49,105,Variegated - Tan/Brown,0
+50,106,Variegated - Coral,0
+51,107,Variegated - Carnation,0
+52,111,Variegated - Mustard,0
+53,115,Variegated - Garnet,0
+54,121,Variegated - Delft Blue,0
+55,125,Variegated - Seafoam Green,0
+56,E5200,Metallic - White,0
+57,E130,Metallic - Gemstones,0
+58,E131*,Metallic - Holiday Sparkle,0
+59,E133*,Metallic - Midnight Madness,0
+60,E135,Metallic - Golden Dawn,0
+61,E136*,Metallic - Emerald Isle,0
+62,E138*,Metallic - Caribbean Ripples,0
+63,E140*,Metallic - Carnival Fun,0
+64,E141*,Metallic - All that Jazz,0
+65,E144*,Metallic - Majestic Metals,0
+66,E146*,Metallic - Tropical Delight,0
+67,* Hard to find threads,,0
+0,E148*,Metallic - Purple Essence,0
+1,E150*,Metallic - Deep Water Blue,0
+2,E152*,Metallic - Pink Shimmer,0
+3,E154*,Metallic - Opalescent Rays,0
+4,E155,Metallic - Amethyst,0
+5,E168,Metallic - Silver,0
+6,E211,Metallic - Lilac,0
+7,E301,Metallic - Copper,0
+8,E310,Metallic - Ebony,0
+9,E316,Metallic - Pink Amethyst,0
+10,E317,Metallic - Titanium,0
+11,E321,Metallic - Red Ruby,0
+12,E334,Metallic - Blue Topaz,0
+13,E415,Metallic - Pewter,0
+14,E436,Metallic - Golden Oak,0
+15,E677,Metallic - White Gold,0
+16,E699,Metallic - Green Emerald,0
+17,E703,Metallic - Light Green Emerald,0
+18,E718,Metallic - Pink Garnet,0
+19,E746,Metallic - Cream,0
+20,E747,Metallic - Baby Blue,0
+21,E815,Metallic - Dark Red Ruby,0
+22,E818,Metallic - Soft Pink,0
+23,E825,Metallic - Blue Sapphire,0
+24,E898,Metallic - Dark Oak,0
+25,E966,Metallic - Lime,0
+26,E967,Metallic - Soft Peach,0
+27,E3685,Metallic - Rosewood,0
+28,E3747,Metallic - Sky Blue,0
+29,E3821,Metallic - Light Gold,0
+30,E3837,Metallic - Purple Ruby,0
+31,E3843,Metallic - Light Blue Sapphire,0
+32,E3849,Metallic - Aquamarine Blue,0
+33,E3852,Metallic - Dark Gold,0
+34,E980,Neon - Neon Yellow,0
+35,E990,Neon - Neon Green,0
+36,E985*,Fluorescents - Lemon Zest,0
+37,E987*,Fluorescents - Key Lime Splash,0
+38,E995*,Fluorescents - Melon Blast,0
+39,E1010*,Fluorescents - Tropical Pink,0
+40,E1020*,Fluorescents - Bright Orange,0
+41,E1024*,Fluorescents - Tangerine Zing,0
+42,E1026*,Fluorescents - Blueberry Blast,0
+43,E1040*,Fluorescents - Bright Blue,0
+44,E1050*,Fluorescents - Luminous Lavender,0
+45,E1055*,Fluorescents - Raspberry Rush,0
+46,E940,Glow-In-The-Dark,0
+47,5282,Metallic Pearl - Gold,0
+48,5283,Metallic Pearl - Silver,0
+49,4010,Variations - Winter Sky,0
+50,4015,Variations - Stormy Skies,0
+51,4020,Variations - Tropical Waters,0
+53,4030,Variations - Monet's Garden,0
+54,4040,Variations - Water Lillies,0
+56,4050,Variations - Roaming Pastures,0
+57,4060,Variations - Weeping Willow,0
+58,4065,Variations - Morning Meadow,0
+59,4070,Variations - Autumn Leaves,0
+60,4075,Variations - Wheat Fields,0
+62,4080,Variations - Daffodil Fields,0
+63,4090,Variations - Golden Oasis,0
+66,4120,Variations - Tropical Sunset,0
+67,* Hard to find threads,,0
+0,4124.0,Variations - Bonfire,0
+1,4126.0,Variations - Desert Canyon,0
+2,4128.0,Variations - Gold Coast,0
+4,4140.0,Variations - Driftwood,0
+6,4150.0,Variations - Desert Sand,0
+7,4160.0,Variations - Glistening Pearl,0
+8,4170.0,Variations - Whispering Wind,0
+9,4180.0,Variations - Rose Petals,0
+11,4200.0,Variations - Wild Fire,0
+13,4215.0,Variations - Northern Lights,0
+14,4220.0,Variations - Lavender Fields,0
+16,4235.0,Variations - Arctic Sea,0
+17,4240.0,Variations - Mid Summer Night,0
+0,4500,Coloris - Columbine Gardens,0
+1,4501,Coloris - Wildflowers,0
+2,4502,Coloris - Camelia,0
+3,4503,Coloris - Wisteria,0
+4,4504,Coloris - Hydrangea,0
+5,4505,Coloris - Heather,0
+6,4506,Coloris - Spring,0
+7,4507,Coloris - Bouginvillea,0
+8,4508,Coloris - Frosted Countryside,0
+9,4509,Coloris - Granite Coast,0
+10,4510,Coloris - Maple,0
+11,4511,Coloris - Indian Summer,0
+12,4512,Coloris - States,0
+13,4513,Coloris - London,0
+14,4514,Coloris - Venice,0
+15,4515,Coloris - Paris,0
+16,4516,Coloris - Black Forest,0
+17,4517,Coloris - Elves,0
+18,4518,Coloris - Cottage,0
+19,4519,Coloris - Jingle Bells,0
+20,4520,Coloris - Christmas Story,0
+21,4521,Coloris - Wide Open Spaces,0
+22,4522,Coloris - Canadian Night,0
+23,4523,Coloris - North Wind,0
+24,CBlanc,Étoile -  White,0
+25,CEcru,Étoile - Ecru/off-white,0
+26,C310,Étoile - Black,0
+27,C318,Étoile - Steel Gray - Light,0
+28,C321,Étoile - Red,0
+29,C415,Étoile - Pearl Grey,0
+30,C433,Étoile - Brown - Medium,0
+31,C436,Étoile - Tan,0
+32,C444,Étoile - Lemon - Dark,0
+33,C471,Étoile - Avocado Green - Very Light,0
+34,C519,Étoile - Sky Blue,0
+35,C550,Étoile - Violet - Very Dark,0
+36,C554,Étoile - Violet - Light,0
+37,C600,Étoile - Cranberry - Very Dark,0
+38,C603,Étoile - Cranberry,0
+39,C666,Étoile - Red - Bright,0
+40,C699,Étoile - Green,0
+41,C725,Étoile - Topaz,0
+42,C738,Étoile - Tan - Very Light,0
+43,C740,Étoile - Tangerine,0
+44,C798,Étoile - Delft Blue - Dark,0
+45,C814,Étoile - Garnet - Dark,0
+46,C816,Étoile - Garnet,0
+47,C820,Étoile - Royal Blue - Very Dark,0
+48,C823,Étoile - Blue - Dark,0
+49,C840,Étoile - Beige Brown - Medium,0
+50,C890,Étoile - Pistachio Green - Ultra Dark,0
+51,C900,Étoile - Burnt Orange - Dark,0
+52,C907,Étoile - Parrot Green - Light,0
+53,C915,Étoile - Plum - Dark,0
+54,C938,Étoile - Coffee Brown - Ultra Dark,0
+55,C972,Étoile - Canary - Deep,0
+56,C995,Étoile - Electric Blue - Dark,0
+57,C3371,Étoile - Black Brown,0
+58,C3799,Étoile - Pewter Gray - Very Dark,0
+60,Updated June 2021,,0
+0,S5200,Satin - Snow White,0
+1,S211,Satin - Lavender,0
+2,S307,Satin - Lemon,0
+3,S310,Satin - Black,0
+4,S321,Satin - Red,0
+5,S326,Satin - Rose,0
+6,S336*,Satin - Blue,0
+7,S351,Satin - Coral,0
+8,S352,Satin - Coral Light,0
+9,S367,Satin - Pistachio Green,0
+10,S414*,Satin - Steel Grey,0
+11,S415,Satin - Pearl Grey,0
+12,S434*,Satin - Brown,0
+13,S469*,Satin - Avacado Green,0
+14,S471,Satin - Avocado Green Very Light,0
+15,S472,Satin - Avocado Green Ultra Light,0
+16,S501*,Satin - Blue Green Dark,0
+17,S504,Satin - Blue Green,0
+18,S550,Satin - Violet Dark,0
+19,S552,Satin - Violet Medium,0
+20,S553*,Satin - Violet,0
+21,S601,Satin - Cranberry Dark,0
+22,S602,Satin - Cranberry,0
+23,S606,Satin - Orange Red,0
+24,S666*,Satin - Red Bright,0
+25,S676*,Satin - Old Gold,0
+26,S700,Satin - Green,0
+27,S702*,Satin - Kelly Green,0
+28,S712*,Satin - Cream,0
+29,S726*,Satin - Topaz,0
+30,S738*,Satin - Tan Dark,0
+31,S739*,Satin - Tan,0
+32,S741,Satin - Tangerine,0
+33,S744*,Satin - Yellow,0
+34,S745*,Satin - Yellow Pale,0
+35,S762*,Satin - Pearl Grey,0
+36,S776*,Satin - Pink,0
+37,S797*,Satin - Royal Blue,0
+38,S798,Satin - Delft Blue Dark,0
+39,S799,Satin - Delft Blue,0
+40,S800,Satin - Delft Blue Pale,0
+41,S818,Satin - Baby Pink,0
+42,S820,Satin - Royal Blue Very Dark,0
+43,S841,Satin - Beige Brown,0
+44,S898,Satin - Coffee Brown,0
+45,S899,Satin - Rose,0
+46,S909*,Satin - Emerald Green,0
+47,S915*,Satin - Plum Dark,0
+48,S931,Satin - Antique Blue,0
+49,S932*,Satin - Antique Blue Light,0
+50,S943,Satin - Aquamarine,0
+51,S959,Satin - Seagreen,0
+52,S964*,Satin - Seagren Light,0
+53,S976,Satin - Golden Brown,0
+54,S991,Satin - Aquamarine Dark,0
+55,S995,Satin - Electric Blue,0
+56,S3371*,Satin - Black Brown,0
+57,S3607*,Satin - Plum,0
+58,S3685,Satin - Mauve,0
+59,S3820,Satin - Straw,0
+60,* Hard to find threads,,0
+0,48.0,Discontinued Variegated - Baby Pink,0
+1,51.0,Discontinued Variegated - Burnt Orange,0
+2,52.0,Discontinued Variegated - Violet,0
+3,53.0,Discontinued Variegated - Steel Gray,0
+4,57.0,Discontinued Variegated - Red,0
+5,61.0,Discontinued Variegated - Topaz,0
+6,62.0,Discontinued Variegated - Dusty Rose,0
+7,67.0,Discontinued Variegated - Baby Blue,0
+8,69.0,Discontinued Variegated - Terra Cotta,0
+9,75.0,Discontinued Variegated - Cranberry,0
+10,90.0,Discontinued Variegated - Yellow,0
+11,91.0,Discontinued Variegated - Turquoise,0
+12,92.0,Discontinued Variegated - Avocado,0
+13,93.0,Discontinued Variegated - Cornflower Blue,0
+14,94.0,Discontinued Variegated - Khaki Green,0
+15,95.0,Discontinued Variegated - Purple,0
+16,99.0,Discontinued Variegated - Mauve,0
+17,101.0,Discontinued Variegated - Spring Green,0
+18,102.0,Discontinued Variegated - Dark Violet,0
+19,103.0,Discontinued Variegated - Royal Blue,0
+20,104.0,Discontinued Variegated - Lemon,0
+21,105.0,Discontinued Variegated - Tan Brown,0
+22,106.0,Discontinued Variegated - Coral,0
+23,107.0,Discontinued Variegated - Carnation,0
+24,108.0,Discontinued Variegated - Yellow Orange,0
+25,111.0,Discontinued Variegated - Mustard,0
+26,112.0,Discontinued Variegated - Salmon,0
+27,113.0,Discontinued Variegated - Wedgewood Blue,0
+28,114.0,Discontinued Variegated - Lime Green,0
+29,115.0,Discontinued Variegated - Garnet,0
+30,116.0,Discontinued Variegated - Cyclamen Pink,0
+31,121.0,Discontinued Variegated - Delft Blue,0
+32,122.0,Discontinued Variegated - Olive Green,0
+33,123.0,Discontinued Variegated - Teal,0
+34,124.0,Discontinued Variegated - Periwinkle,0
+35,125.0,Discontinued Variegated - Seafoam Green,0
+36,126.0,Discontinued Variegated - Lavender,0
+37,4000.0,Discontinued Variegated - Espresso,0
+38,4010.0,Discontinued Variegated - Winter Sky,0
+39,4017.0,Discontinued Variegated - Polar Ice,0
+40,4022.0,Discontinued Variegated - Mediterranean Sea,0
+41,4042.0,Discontinued Variegated - Very Merry,0
+42,4047.0,Discontinued Variegated - Emerald Isle,0
+43,4066.0,Discontinued Variegated - Amazon Moss,0
+44,4068.0,Discontinued Variegated - Camouflage,0
+45,4069.0,Discontinued Variegated - Margarita,0
+46,4072.0,Discontinued Variegated - Toasted Almond,0
+47,4073.0,Discontinued Variegated - Buttercup,0
+48,4095.0,Discontinued Variegated - Cupcake,0
+49,4122.0,Discontinued Variegated - Fall Harvest,0
+50,4129.0,Discontinued Variegated - Peanut Brittle,0
+51,4135.0,Discontinued Variegated - Terra Cotta,0
+52,4205.0,Discontinued Variegated - Caliente,0
+53,4211.0,Discontinued Variegated - Azalea,0
+54,4212.0,Discontinued Variegated - Mixed Berries,0
+55,4214.0,Discontinued Variegated - Cotton Candy,0
+56,4237.0,Discontinued Variegated - Laguna Blue,0
+57,4245.0,Discontinued Variegated - Mystical Midnight,0
+58,4250.0,Discontinued Variegated - Berry Parfait,0
+59,4255.0,Discontinued Variegated - Orchid,0
+60,4260.0,Discontinued Variegated - Enchanted,0
+61,4265.0,Discontinued Variegated - Purple Pansy,0
